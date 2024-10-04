@@ -8,4 +8,5 @@ This is a decentralized application that allows users to list, purchase, and rat
 4. Start the frontend: `npm start`.
 
 ## Screenshots
-Include demo screenshots of listing and purchasing models here.
+![alt text](image.png)
+![alt text](image-1.png)
